@@ -2,7 +2,7 @@
 if (true){
     let usuario = prompt('Ingrese su Usuario: ');
 
-    while (usuario !== 'DevCatLAn'){
+    while (usuario !== 'DevCatLan'){
         alert('Intente nuevamente');
         usuario = prompt('Ingrese su Usuario: ');
     }
